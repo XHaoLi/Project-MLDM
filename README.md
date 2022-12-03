@@ -4,7 +4,8 @@
 import pandas as pd
 
 
-*Data
+***Data
+(path needs to be changed)
 
 calendar = pd.read_csv("/Users/Xianghao/Desktop/M5/calendar.csv")
 sell_prices = pd.read_csv("/Users/Xianghao/Desktop/M5/sell_prices.csv")
